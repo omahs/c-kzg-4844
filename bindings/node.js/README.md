@@ -134,7 +134,7 @@ verifyKzgProof(
 
 ```ts
 /**
- * Given a blob and its proof, verify that it corresponds to the provided
+ * Given a blob and its proof, verify that it correspond to the provided
  * commitment.
  *
  * @param {Blob}    blob - The serialized blob to verify
